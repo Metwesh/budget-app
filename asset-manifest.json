@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.1a8a0596.css",
-    "main.js": "./static/js/main.7dea09ee.js",
-    "index.html": "./index.html",
-    "main.1a8a0596.css.map": "./static/css/main.1a8a0596.css.map",
-    "main.7dea09ee.js.map": "./static/js/main.7dea09ee.js.map"
+    "main.css": "/metwesh.github.io/budget-app/static/css/main.1a8a0596.css",
+    "main.js": "/metwesh.github.io/budget-app/static/js/main.7dea09ee.js",
+    "index.html": "/metwesh.github.io/budget-app/index.html",
+    "main.1a8a0596.css.map": "/metwesh.github.io/budget-app/static/css/main.1a8a0596.css.map",
+    "main.7dea09ee.js.map": "/metwesh.github.io/budget-app/static/js/main.7dea09ee.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
